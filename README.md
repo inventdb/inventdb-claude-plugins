@@ -19,6 +19,7 @@ person's own access to every read and write.
 | [InventDB PMS](plugins/inventdb-pms/) | A rental portfolio's rent roll and arrears, renewals, maintenance and vendors, receipts into expenses, owner statements and year-end figures | `/plugin install inventdb-pms@inventdb` |
 | [InventDB Freelance](plugins/inventdb-freelance/) | A consultant's scope checks against signed SOWs, retainer burn, effective hourly rate, unbilled time, overdue invoices and deliverables | `/plugin install inventdb-freelance@inventdb` |
 | [InventDB Recruiter](plugins/inventdb-recruiter/) | An independent recruiter's resume search by meaning, role shortlists, follow-ups, placements, fees and guarantees | `/plugin install inventdb-recruiter@inventdb` |
+| [InventDB Consulting](plugins/inventdb-consulting/) | Consulting work such as a buyer's due diligence: data room search and cross-checks, a cited findings register, seller requests, research, printable reports and timesheets | `/plugin install inventdb-consulting@inventdb` |
 
 After installing, connect your InventDB workspace and sign in with your InventDB account. Each
 plugin's README says how to connect it, what it sends where, and its current limits.

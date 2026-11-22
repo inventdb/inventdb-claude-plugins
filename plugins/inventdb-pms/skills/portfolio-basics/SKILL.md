@@ -36,7 +36,8 @@ Settings > Connectors > Add custom connector, with your workspace's /mcp address
 ## Clocks
 
 Count against **today**, unless the workspace is the synthetic Virginia demo portfolio, whose
-records stop at **20 Nov 2026**: then count from that date and say "as at 20 Nov 2026". A clock is
+records stop at **20 Nov 2026**: then today is 20 Nov 2026 for every clock and every date you write, whatever
+the calendar says, and you say "as at 20 Nov 2026". A clock is
 time against its limit: "lease ends in 3 days", "rent 15 days late (grace 5)", "certificate lapsed
 12 days ago". Never a bare date for something due.
 

@@ -1,0 +1,11 @@
+{
+  "name": "inventdb-consulting",
+  "displayName": "InventDB Consulting",
+  "version": "1.0.0",
+  "description": "Run consulting work such as a buyer's due diligence from Claude: search and cross-check the data room, keep a cited findings register, chase the other side's requests, record research, prepare printable reports and keep the timesheet against budget. Your records and documents live in your own InventDB Serverless workspace, connected once as a custom connector.",
+  "author": { "name": "InventDB", "url": "https://www.inventdb.com" },
+  "homepage": "https://github.com/inventdb/inventdb-claude-plugins/tree/main/plugins/inventdb-consulting",
+  "repository": "https://github.com/inventdb/inventdb-claude-plugins",
+  "license": "MIT",
+  "keywords": ["consulting", "due diligence", "real estate", "data room", "document review", "research", "reports", "timesheet", "inventdb", "serverless", "mcp"]
+}

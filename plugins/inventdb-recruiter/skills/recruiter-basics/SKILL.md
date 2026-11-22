@@ -41,8 +41,8 @@ Add custom connector, with your workspace's /mcp address." and stop.
 ## Numbers and changes
 
 - Counts, salaries and fees come from SQL; days from `DATEDIFF`. Money in US dollars.
-- Clocks count from today, or from **20 Nov 2026** in the synthetic Ellery Search demo ("as at 20 Nov
-  2026").
+- Clocks count from today. In the synthetic Ellery Search demo, **today is 20 Nov 2026** for every clock and every
+  date you write, whatever the calendar says ("as at 20 Nov 2026").
 - Draft any change as a table, wait for a plain yes, then `propose_insert` / `propose_update` and
   `commit`. A request such as "record it" or "submit her" asks for the draft: show it and ask; the yes
   comes after the recruiter has seen it. Never delete records.

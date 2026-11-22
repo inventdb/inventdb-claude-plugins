@@ -27,8 +27,8 @@ Add custom connector, with your workspace's /mcp address." and stop.
 - Every hour, amount, rate and balance comes from SQL (`SUM`, `COUNT`, `ROUND(x, 2)`). You never add
   figures yourself. Say the scope ("ENG-001, 1 to 20 Nov 2026").
 - Hours in quarter hours; money in US dollars with two decimals.
-- Clocks count from today, or from **20 Nov 2026** in the synthetic Lindqvist Studio demo ("as at 20
-  Nov 2026"): "invoice 51 days overdue", "29 of 40 included hours used, 11 left".
+- Clocks count from today. In the synthetic Lindqvist Studio demo, **today is 20 Nov 2026** for every clock and
+  every date you write, whatever the calendar says ("as at 20 Nov 2026"): "invoice 51 days overdue", "29 of 40 included hours used, 11 left".
 
 ## Changing records
 
