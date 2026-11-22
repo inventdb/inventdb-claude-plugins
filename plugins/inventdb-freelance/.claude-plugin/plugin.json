@@ -1,0 +1,11 @@
+{
+  "name": "inventdb-freelance",
+  "displayName": "InventDB Freelance",
+  "version": "1.0.0",
+  "description": "Run a consulting practice from Claude: scope checks against signed SOWs, retainer burn and overage, effective hourly rate, unbilled time, overdue invoices, deliverables and change requests. Your records live in your own InventDB Serverless workspace, connected once as a custom connector.",
+  "author": { "name": "InventDB", "url": "https://www.inventdb.com" },
+  "homepage": "https://github.com/inventdb/inventdb-claude-plugins/tree/main/plugins/inventdb-freelance",
+  "repository": "https://github.com/inventdb/inventdb-claude-plugins",
+  "license": "MIT",
+  "keywords": ["freelance", "consultant", "retainer", "scope creep", "SOW", "time tracking", "invoices", "inventdb", "serverless", "mcp"]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "inventdb-recruiter",
+  "displayName": "InventDB Recruiter",
+  "version": "1.0.0",
+  "description": "Run an independent recruiting desk from Claude: search your own resumes by what people have done, shortlist for open roles, chase follow-ups, and track placements, fees and guarantees. Your candidates and resumes live in your own InventDB Serverless workspace, connected once as a custom connector.",
+  "author": { "name": "InventDB", "url": "https://www.inventdb.com" },
+  "homepage": "https://github.com/inventdb/inventdb-claude-plugins/tree/main/plugins/inventdb-recruiter",
+  "repository": "https://github.com/inventdb/inventdb-claude-plugins",
+  "license": "MIT",
+  "keywords": ["recruiting", "recruiter", "resumes", "candidates", "shortlist", "pipeline", "placements", "inventdb", "serverless", "mcp"]
+}

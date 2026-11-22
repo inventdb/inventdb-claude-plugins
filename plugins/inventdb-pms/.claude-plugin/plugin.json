@@ -1,0 +1,11 @@
+{
+  "name": "inventdb-pms",
+  "displayName": "InventDB PMS",
+  "version": "1.0.0",
+  "description": "Run a rental portfolio from Claude: rent roll and arrears, lease renewals, maintenance and vendors, receipts into expenses, owner statements and year-end figures. Your records live in your own InventDB Serverless workspace, connected once as a custom connector.",
+  "author": { "name": "InventDB", "url": "https://www.inventdb.com" },
+  "homepage": "https://github.com/inventdb/inventdb-claude-plugins/tree/main/plugins/inventdb-pms",
+  "repository": "https://github.com/inventdb/inventdb-claude-plugins",
+  "license": "MIT",
+  "keywords": ["property management", "landlord", "rental", "rent roll", "arrears", "leases", "maintenance", "receipts", "inventdb", "serverless", "mcp"]
+}

@@ -1,0 +1,117 @@
+{
+  "name": "inventdb",
+  "owner": {
+    "name": "InventDB",
+    "url": "https://www.inventdb.com"
+  },
+  "metadata": {
+    "description": "Claude plugins from InventDB. Each one runs a line of business from Claude on the customer's own InventDB Serverless workspace: the records stay in the workspace, and InventDB applies each person's access to every read and write.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "inventdb-legal",
+      "source": "./plugins/inventdb-legal",
+      "description": "Run a law firm's matters, docket, conflict checks, time, billing, trust and documents from Claude, on an InventDB Serverless workspace.",
+      "version": "1.0.0",
+      "author": {
+        "name": "InventDB",
+        "url": "https://www.inventdb.com"
+      },
+      "homepage": "https://github.com/inventdb/inventdb-claude-plugins/tree/main/plugins/inventdb-legal",
+      "repository": "https://github.com/inventdb/inventdb-claude-plugins",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": [
+        "legal",
+        "law firm",
+        "practice management",
+        "docket",
+        "trust accounting",
+        "time entry",
+        "inventdb",
+        "serverless",
+        "mcp"
+      ]
+    },
+    {
+      "name": "inventdb-pms",
+      "source": "./plugins/inventdb-pms",
+      "description": "Run a rental portfolio from Claude: rent roll and arrears, renewals, maintenance and vendors, receipts into expenses, owner statements and year-end figures, on your own InventDB Serverless workspace.",
+      "version": "1.0.0",
+      "author": {
+        "name": "InventDB",
+        "url": "https://www.inventdb.com"
+      },
+      "homepage": "https://github.com/inventdb/inventdb-claude-plugins/tree/main/plugins/inventdb-pms",
+      "repository": "https://github.com/inventdb/inventdb-claude-plugins",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": [
+        "property management",
+        "landlord",
+        "rental",
+        "rent roll",
+        "arrears",
+        "leases",
+        "maintenance",
+        "receipts",
+        "inventdb",
+        "serverless",
+        "mcp"
+      ]
+    },
+    {
+      "name": "inventdb-freelance",
+      "source": "./plugins/inventdb-freelance",
+      "description": "Run a consulting practice from Claude: scope checks against signed SOWs, retainer burn and overage, effective hourly rate, unbilled time, overdue invoices and deliverables, on your own InventDB Serverless workspace.",
+      "version": "1.0.0",
+      "author": {
+        "name": "InventDB",
+        "url": "https://www.inventdb.com"
+      },
+      "homepage": "https://github.com/inventdb/inventdb-claude-plugins/tree/main/plugins/inventdb-freelance",
+      "repository": "https://github.com/inventdb/inventdb-claude-plugins",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": [
+        "freelance",
+        "consultant",
+        "retainer",
+        "scope creep",
+        "SOW",
+        "time tracking",
+        "invoices",
+        "inventdb",
+        "serverless",
+        "mcp"
+      ]
+    },
+    {
+      "name": "inventdb-recruiter",
+      "source": "./plugins/inventdb-recruiter",
+      "description": "Run an independent recruiting desk from Claude: search your own resumes by what people have done, shortlist for open roles, chase follow-ups, and track placements, fees and guarantees, on your own InventDB Serverless workspace.",
+      "version": "1.0.0",
+      "author": {
+        "name": "InventDB",
+        "url": "https://www.inventdb.com"
+      },
+      "homepage": "https://github.com/inventdb/inventdb-claude-plugins/tree/main/plugins/inventdb-recruiter",
+      "repository": "https://github.com/inventdb/inventdb-claude-plugins",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": [
+        "recruiting",
+        "recruiter",
+        "resumes",
+        "candidates",
+        "shortlist",
+        "pipeline",
+        "placements",
+        "inventdb",
+        "serverless",
+        "mcp"
+      ]
+    }
+  ]
+}

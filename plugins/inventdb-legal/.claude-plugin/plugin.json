@@ -1,0 +1,14 @@
+{
+  "name": "inventdb-legal",
+  "displayName": "InventDB Legal",
+  "version": "1.0.0",
+  "description": "Run a law firm's matters, docket, conflict checks, time, billing, trust account and documents from Claude. The firm's records live in its own InventDB Serverless workspace; Claude works on them through the workspace's connector, under each person's own access.",
+  "author": {
+    "name": "InventDB",
+    "url": "https://www.inventdb.com"
+  },
+  "homepage": "https://github.com/inventdb/inventdb-claude-plugins/tree/main/plugins/inventdb-legal",
+  "repository": "https://github.com/inventdb/inventdb-claude-plugins",
+  "license": "MIT",
+  "keywords": ["legal", "law firm", "practice management", "docket", "trust accounting", "time entry", "inventdb", "serverless", "mcp"]
+}
